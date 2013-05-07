@@ -20,3 +20,4 @@ ALTER TABLE medicine DROP COLUMN chino;
 
 
 
+
