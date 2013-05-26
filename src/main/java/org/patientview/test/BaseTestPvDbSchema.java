@@ -1,4 +1,4 @@
-package com.worthsoln.test;
+package org.patientview.test;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
